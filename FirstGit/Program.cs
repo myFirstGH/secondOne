@@ -19,7 +19,7 @@ namespace FirstGit
         static void P()
         {
             Console.WriteLine("hi from P");
-            Console.WriteLine("hi from p2");
+            Console.WriteLine("hi from h1");
         }
     }
 }
