@@ -11,9 +11,9 @@ namespace FirstGit
         static void Main(string[] args)
         {
             Console.WriteLine("hi!");
-            Console.WriteLine("hi!");
-            Console.WriteLine("hi!");
-            Console.WriteLine("hi!");
+            Console.WriteLine("hi!1");
+            Console.WriteLine("hi!2");
+            Console.WriteLine("hi!3");
 
             //   P();
 
