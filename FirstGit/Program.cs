@@ -11,7 +11,9 @@ namespace FirstGit
         static void Main(string[] args)
         {
             Console.WriteLine("hi!");
-
+            Console.WriteLine("hallo");
+            Console.WriteLine("or hello");
+            Console.WriteLine("or your variant");
             //   P();
 
         }
